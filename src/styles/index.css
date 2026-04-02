@@ -7,3 +7,10 @@
     0 20px 0 -10px #eee,
     0 20px 1px -9px rgba(0,0,0,0.15);
 }
+
+/* ── Botón Agregar ───────────────────────── */
+button {
+    background-color: red;
+    color: white;
+}
+
