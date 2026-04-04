@@ -1,6 +1,6 @@
 import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
-import { TodoListApi } from "./TodoListApi.jsx"; // 👈 cambia esto
+import { TodoListApi } from "./TodoListApi.jsx"; 
 
 const Home = () => {
 	return (
